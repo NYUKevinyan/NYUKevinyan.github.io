@@ -1,0 +1,23 @@
+body
+{
+	background-image: url("orange.jpg");
+}
+.e
+{
+	font-size:30px;
+	color:black;
+	text-align: center;
+	font-family: 'Helvetica', serif;
+
+}
+.a
+{
+	font-family: 'Helvetica', serif;
+	font-weight: bold;
+	color:	black;
+	font-size: 22px;
+}
+.wholebody
+{
+	margin:100px;
+}

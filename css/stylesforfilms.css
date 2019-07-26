@@ -1,0 +1,32 @@
+body
+{
+	background-image: url("galaxy.jpg");
+	font-family: 'Helvetica', serif;
+	font-weight: bold;
+}
+.a
+{
+	font-size:30px;
+	color:#FF00FF;
+	text-align: center;
+	font-family: 'Helvetica', serif;
+}
+.b
+{
+	color:#00FFF0;
+	font-family: 'Helvetica', serif;
+}
+.c
+{
+	color:yellow;
+	font-size:18px;
+	font-family: 'Helvetica', serif;
+}
+.d
+{
+	color:#00FF00;
+}
+.e
+{
+	color:yellow;
+}

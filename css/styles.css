@@ -1,0 +1,57 @@
+body
+{ 
+	background-image: url("v.jpg");
+	background-color: lightblue;
+	margin:100px;
+	font-family: 'Helvetica', serif;
+	font-weight: bold;
+	color:white;
+	font-size:18px;
+}
+h2
+{
+	font-family: 'Courier New', sans-serif;
+	font-weight: bold;
+	display: block;
+	color:#00FFFF;
+	
+}
+span.targeted
+{
+	font-family: 'Arial', sans-serif;
+	font-weight: bold;
+	color:yellow;
+}
+p.targeted1
+{
+	text-align: center;
+	color :orange;
+}
+.bord
+{
+	margin:40px;
+	border:0px solid grey;
+	
+}
+.a
+{
+	font-size:18px;
+	color:lightgreen;
+
+}
+.b
+{
+	font-size:28px;
+}
+.c
+{
+
+}
+.d
+{
+
+}
+
+
+
+

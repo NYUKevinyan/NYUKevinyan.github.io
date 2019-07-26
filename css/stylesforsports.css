@@ -1,0 +1,39 @@
+.a
+{
+	display: flex;
+	font-size: 22px;
+	font-weight: bold;
+	color:pink;
+}
+.e
+{
+	font-size:30px;
+	color:#FF00FF;
+	text-align: center;
+	font-family: 'Helvetica', serif;
+}
+body
+{
+	background-image: url("blue.jpg");
+}
+.wholebody
+{
+	margin:100px;
+	font-family: 'Helvetica', serif;
+}
+
+
+.b
+{
+	display: inline-block;
+
+}
+.c
+{
+	display: inline-block;
+	margin-left: 40px;
+}
+.d
+{
+	
+}

@@ -1,0 +1,41 @@
+body{
+	background-image: url("black.jpg");
+	background-color: black;
+	font-family: 'Helvetica', serif;
+	font-weight: bold;
+}
+
+
+
+.wholebody
+{
+	margin:100px;
+
+}
+.a
+{
+	color:#FF00FF;
+}
+.b
+{
+	color:orange;
+}
+.c
+{
+	color:#00FFFF;
+}
+.d
+{
+	color:#FFFF00;
+}
+.e
+{
+	font-size:30px;
+	color:#FF00FF;
+	text-align: center;
+	font-family: 'Helvetica', serif;
+}
+.f
+{
+	font-size:26px;
+}
